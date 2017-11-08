@@ -1,4 +1,6 @@
 # ACTS-AS-FU
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fnakajima%2Facts_as_fu.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fnakajima%2Facts_as_fu?ref=badge_shield)
+
 
 Now you have no excuse for not test-driving your ActiveRecord
 extending plugins.
@@ -90,3 +92,6 @@ Provide the ability to create **multiple** connections (thanks to Pivotal for th
     ActsAsFu.connections[:sqlite3] # or something
 
 (c) Copyright 2008-2009 Pat Nakajima. All Rights Reserved.
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fnakajima%2Facts_as_fu.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fnakajima%2Facts_as_fu?ref=badge_large)
